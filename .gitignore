@@ -1,0 +1,14 @@
+node_modules
+dist
+dist-ssr
+*.local
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# pre-existing stray items (not part of this project)
+afz_portfolio/
+httpscodemaster525640.github.ioAzamuddin_portfolio.txt
